@@ -1,0 +1,2 @@
+# No external dependencies - uses Python stdlib only (urllib, json, base64)
+# Python 3.6+ required
